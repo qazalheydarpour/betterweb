@@ -36,10 +36,11 @@ nav ul li a:hover{
     padding-bottom: 5px;
 }
 .bluebox button{
-    font-size: 20px;
+    font-size: 17px;
     width: 140px;
+    height: 46px;
     border: 0;
-    padding: 12px 10px;
+    padding: 3px 5px 15px 5px;
     outline: none;
     color: white;
     background: #065ba7;
